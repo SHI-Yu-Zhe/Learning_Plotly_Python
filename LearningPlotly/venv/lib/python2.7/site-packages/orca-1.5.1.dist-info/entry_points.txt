@@ -1,0 +1,3 @@
+[console_scripts]
+orca-server = orca.server.server:main [server]
+
